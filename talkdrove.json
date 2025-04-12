@@ -4,10 +4,10 @@
 
 
 {
-  "name": "😇𝙋𝙤𝙥𝙠𝙞𝙙 𝙓𝙩𝙚𝙘𝙝😇",
-  "description": "Ok Popkid made it.",
+  "name": "𝚻𝚮𝚵  𝐋𝚵𝐆𝚵𝚴𝐃𝚫𝚪𝐘  𝚴𝚰𝐋🇰🇷ᥫ᭡",
+  "description":  "𝚻𝚮𝚵 𝐋𝚵𝐆𝚵𝚴𝐃𝚫𝚪𝐘 𝚴𝚰𝐋.",
   "logo": "https://files.catbox.moe/w5xf3f.jpg",
-  "keywords": ["Popkid"],
+  "keywords": ["𝚻𝚮𝚵 𝐋𝚵𝐆𝚵𝚴𝐃𝚫𝚪𝐘 𝚴𝚰𝐋 ᥫ᭡"],
   "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
   "stack": "container",
   "env": { 
@@ -19,7 +19,7 @@
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "self"
     },
     "ANTI_DELETE": {
       "description": "make it true for use anti delete",
@@ -44,12 +44,12 @@
     "OWNER_NAME": {
       "description": "set your status reply message",
       "required": false,
-      "value": "Marisel"
+      "value": "N I L ᥫ᭡"
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "254111385747"
+      "value": "923190969425"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
